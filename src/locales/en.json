@@ -1,0 +1,30 @@
+{
+  "translation": {
+    "header": {
+      "sign_in": "Sign In",
+      "sign_up": "Sign Up"
+    },
+    "label": {
+      "username": "Username",
+      "password": "Password",
+      "confirm_password": "Confirm Password",
+      "termsOfUse": "Terms Of Use",
+      "passwordHelpBlock": "Your password must be 8-20 characters long"
+    },
+    "button": {
+      "login": "Login",
+      "register": "Register",
+      "logout": "logout"
+    },
+    "error": {
+      "username": {
+        "required": "Username is required"
+      },
+      "password": {
+        "required": "Password is required",
+        "must_match": "Passwords must match",
+        "confirm_password": "Confirm Password is required"
+      }
+    }
+  }
+}
